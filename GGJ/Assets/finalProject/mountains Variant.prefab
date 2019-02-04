@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &9031389792935685614
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1612046257154371670, guid: ac07c398a7cb5a04c9ea90a6ee51ea41,
+        type: 3}
+      propertyPath: m_Name
+      value: mountains
+      objectReference: {fileID: 0}
+    - target: {fileID: 1612046257154371670, guid: ac07c398a7cb5a04c9ea90a6ee51ea41,
+        type: 3}
+      propertyPath: m_TagString
+      value: mountains
+      objectReference: {fileID: 0}
+    - target: {fileID: 1612046257153944694, guid: ac07c398a7cb5a04c9ea90a6ee51ea41,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 44.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1612046257153944694, guid: ac07c398a7cb5a04c9ea90a6ee51ea41,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1612046257153944694, guid: ac07c398a7cb5a04c9ea90a6ee51ea41,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 61.46
+      objectReference: {fileID: 0}
+    - target: {fileID: 1612046257153944694, guid: ac07c398a7cb5a04c9ea90a6ee51ea41,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1612046257153944694, guid: ac07c398a7cb5a04c9ea90a6ee51ea41,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1612046257153944694, guid: ac07c398a7cb5a04c9ea90a6ee51ea41,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1612046257153944694, guid: ac07c398a7cb5a04c9ea90a6ee51ea41,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1612046257153944694, guid: ac07c398a7cb5a04c9ea90a6ee51ea41,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1612046257153944694, guid: ac07c398a7cb5a04c9ea90a6ee51ea41,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1612046257153944694, guid: ac07c398a7cb5a04c9ea90a6ee51ea41,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1612046257153944694, guid: ac07c398a7cb5a04c9ea90a6ee51ea41,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1612046257152175774, guid: ac07c398a7cb5a04c9ea90a6ee51ea41,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7b876eb685939ed4c9cc358be56279d4, type: 2}
+    - target: {fileID: 1612046257152175772, guid: ac07c398a7cb5a04c9ea90a6ee51ea41,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: ee219aef0aa2c434498828e2411c2b0d, type: 2}
+    - target: {fileID: 1612046257152175770, guid: ac07c398a7cb5a04c9ea90a6ee51ea41,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 9a7b9f43ea8118a419c1bd222fa4b523, type: 2}
+    - target: {fileID: 1612046257152175768, guid: ac07c398a7cb5a04c9ea90a6ee51ea41,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4cb40a98816a54c4a9ed2a4070b44d99, type: 2}
+    - target: {fileID: 1612046257154371672, guid: ac07c398a7cb5a04c9ea90a6ee51ea41,
+        type: 3}
+      propertyPath: m_TagString
+      value: mountains
+      objectReference: {fileID: 0}
+    - target: {fileID: 1612046257154371674, guid: ac07c398a7cb5a04c9ea90a6ee51ea41,
+        type: 3}
+      propertyPath: m_TagString
+      value: mountains
+      objectReference: {fileID: 0}
+    - target: {fileID: 1612046257154371676, guid: ac07c398a7cb5a04c9ea90a6ee51ea41,
+        type: 3}
+      propertyPath: m_TagString
+      value: mountains
+      objectReference: {fileID: 0}
+    - target: {fileID: 1612046257154371678, guid: ac07c398a7cb5a04c9ea90a6ee51ea41,
+        type: 3}
+      propertyPath: m_TagString
+      value: mountains
+      objectReference: {fileID: 0}
+    - target: {fileID: 4947545255650575233, guid: ac07c398a7cb5a04c9ea90a6ee51ea41,
+        type: 3}
+      propertyPath: m_TagString
+      value: mountains
+      objectReference: {fileID: 0}
+    - target: {fileID: 9127457890773611353, guid: ac07c398a7cb5a04c9ea90a6ee51ea41,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ac07c398a7cb5a04c9ea90a6ee51ea41, type: 3}
